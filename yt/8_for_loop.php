@@ -8,6 +8,8 @@
         <?php
             
             /*
+            Best when you know how many times to repeat
+
             for(start; condition; increase){
             code
             }

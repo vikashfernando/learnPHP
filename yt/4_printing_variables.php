@@ -4,6 +4,7 @@
         <title>php2</title>
     </head>
     <body>
+        
         <?php
 
             $name="vikash";

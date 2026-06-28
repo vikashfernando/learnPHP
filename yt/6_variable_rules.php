@@ -10,10 +10,14 @@
             echo "hello world"
 
             /*
-            Variables cannot start with a number
+            1. Variables cannot start with a number
                 correct - $name,$student,$studentName,$_name$totalMarks
                 wrong - $123name
 
+            2. Case Sensitivity
+                $name and $Name are different variables
+
+            3.
 
             */
 
