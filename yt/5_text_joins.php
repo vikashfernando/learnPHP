@@ -9,8 +9,7 @@
             $name="vikash";
             $age=23;
 
-            echo $name;
-            echo $age;
+            echo "my name is ".$name." and i'm ".$age." years old.";  //join(.) is used to connect variables, texts together...
             
         ?>
 
