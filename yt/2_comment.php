@@ -7,6 +7,8 @@
         <?php
             echo "hello world" //this is a PHP single line comment
 
+            #this also another way to write single line comments
+
             /*
             multiline comment
 

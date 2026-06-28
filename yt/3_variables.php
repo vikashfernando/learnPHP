@@ -6,9 +6,9 @@
     <body>
         <?php
 
-            echo "hello world ";
             $name="vikash";
-            echo "my name is ", $name;
+            $age=23
+            
         ?>
 
     </body>
