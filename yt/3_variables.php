@@ -6,8 +6,10 @@
     <body>
         <?php
 
-            $name="vikash";
-            $age=23
+            $name="vikash"; //txt
+            $age=23         //int
+            $price = 10.50; //float
+            $isPaid = true; //boolean
             
         ?>
 
